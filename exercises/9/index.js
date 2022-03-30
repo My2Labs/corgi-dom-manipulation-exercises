@@ -1,2 +1,2 @@
-li = document.querySelector("li")
+const li = document.querySelector("li")
 li.dog = "corgi-queen"
